@@ -1,0 +1,13 @@
+com\az\web\MainController.class
+com\az\Application.class
+com\az\model\Role.class
+com\az\service\UserService.class
+com\az\constraint\FieldMatchValidator.class
+com\az\service\UserServiceImpl.class
+com\az\repository\UserRepository.class
+com\az\web\dto\UserRegistrationDto.class
+com\az\constraint\FieldMatch.class
+com\az\model\User.class
+com\az\constraint\FieldMatch$List.class
+com\az\config\SecurityConfiguration.class
+com\az\web\UserRegistrationController.class
